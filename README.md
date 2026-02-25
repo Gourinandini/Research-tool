@@ -145,12 +145,6 @@ GROQ_API_KEY=your_key
 
 ---
 
-## 👩‍💻 Author
-
-**Gourinandini Sunil**
-
----
-
 ## ⭐ Contribution
 
 Contributions are welcome! Feel free to fork, open issues, or submit pull requests.
